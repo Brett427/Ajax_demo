@@ -14,6 +14,7 @@
 <head>
     <script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"></script>
     <script type="application/javascript">
+
         $(document).ready(function () {
             $("#b1").click(function () {
                 $("#a1").text("google");
